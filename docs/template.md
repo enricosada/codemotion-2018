@@ -4,7 +4,10 @@ permalink: /template/
 
 Based on the .NET Templating engine [https://github.com/dotnet/templating](https://github.com/dotnet/templating).
 
-This engine is used in the `dotnet new` command ([docs](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new?tabs=netcore2x)) and in Visual Studio (`File -> New -> ..`)
+This engine is used in the `dotnet new` command ([docs](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new?tabs=netcore2x)) and in editors (like Visual Studio or Rider `File -> New -> ...` )
+
+A [List of additional avaiable packages](https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new)
+
 
 Features:
 
@@ -22,7 +25,6 @@ Some Docs:
 Some samples and how to:
 
 - [.net template samples](https://github.com/dotnet/dotnet-template-samples)
-- [list of additional avaiable packages](https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new)
 
 
 
