@@ -22,4 +22,4 @@ Tutorials:
 
 Prossimi eventi:
 
-- [F# Online conference - http://fsharpconf.com](http://fsharpconf.com/)
+- [16 Aprile - FSharpConf (virtual event) - http://fsharpconf.com](http://fsharpconf.com/)
