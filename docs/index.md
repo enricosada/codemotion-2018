@@ -31,7 +31,3 @@ F# per:
   - [Safe stack - full web stack F# with fable and .NET Core](https://safe-stack.github.io/docs/intro/)
     - Really nice [video intro](https://skillsmatter.com/skillscasts/11308-safe-apps-with-f-web-stack)
   - [Websharper - full web stack](https://websharper.com/)
-
-Prossimi eventi:
-
-- [16 Aprile - FSharpConf (virtual event) - http://fsharpconf.com](http://fsharpconf.com/)
